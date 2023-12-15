@@ -2,7 +2,7 @@
 my profile
 # Nidhi
 my profile
-Welcome to Shreya's Repository! 👋
+Welcome to Nidhi sahu's Repository! 👋
 Hey there! I'm Nidhi, and this is my personal GitHub repository—a place where my code, experiments, and ideas reside. Welcome to my coding journey!
 
 About Me ℹ️
